@@ -77,14 +77,12 @@ console.count("click")
 
 //trace
 
-
 // function funcA(){
-//     funcB();
-// }
-
+// funcB();
+// } 
 // function funcB(){
-//     console.trace("Seguimiento de la ejecución")
-// }
+// console.trace("Seguimiento de la ejecu ción")
+// } 
 
 // funcA();
 
